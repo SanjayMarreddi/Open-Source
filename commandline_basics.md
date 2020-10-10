@@ -7,7 +7,7 @@ Let's learn the fundamental UNIX commands necessary for development
 
 - The command line is a tool for interacting with a computer using only text (also known as a text interface) rather
 than other methods like clicking and scrolling. Let's learn these skills thoroughly because they are essential for developing 
-websites and applications! UNIX command is a type of command that is used in Linux and macOS. Works in Git also
+websites and applications! **UNIX** command is a type of command that is used in Linux and macOS. Works in Git also
 
 
 
@@ -35,7 +35,7 @@ To do this, you can use the ls command as shown below.
 - Note that the ls command will only display the directories and files that are direct children of the current directory.
 
 - We've learned how to use the cd command, but we don't know how to move to the parent directory yet.
-If you want to move to the parent directory, you can use a special symbol .., like "cd ..".
+If you want to move to the parent directory, you can use a special symbol .., like `cd ..`.
 
 - If you execute cd without specifying a directory, you can move to what is called a home directory.
 The home directory is represented by ~ like in the image below.
