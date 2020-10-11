@@ -7,7 +7,7 @@ Let's learn the fundamental UNIX commands necessary for development
 
 - The command line is a tool for interacting with a computer using only text (also known as a text interface) rather
 than other methods like clicking and scrolling. Let's learn these skills thoroughly because they are essential for developing 
-websites and applications! UNIX command is a type of command that is used in Linux and macOS. Works in Git also
+websites and applications! **UNIX** command is a type of command that is used in Linux and macOS. Works in Git also
 
 
 
