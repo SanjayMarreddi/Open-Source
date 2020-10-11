@@ -15,7 +15,7 @@ websites and applications! UNIX command is a type of command that is used in Lin
 Let's start looking at what kind of commands there are in the next slides. There is no need to write $, since it is a symbol often used to 
 signify where you can begin typing in commands.
 
-- First, let's look at the command for creating new files, the "touch" command. You can create an empty file by typing "touch file_name" and executing it.
+- First, let's look at the command for creating new files, the `touch` command. You can create an empty file by typing "touch file_name" and executing it.
 
 
 - You can create a new directory using a command as well. A directory is commonly used interchangeably with the term folder. To create a directory, use the mkdir command as follows: mkdir directory_name.
@@ -35,7 +35,7 @@ To do this, you can use the ls command as shown below.
 - Note that the ls command will only display the directories and files that are direct children of the current directory.
 
 - We've learned how to use the cd command, but we don't know how to move to the parent directory yet.
-If you want to move to the parent directory, you can use a special symbol .., like "cd ..".
+If you want to move to the parent directory, you can use a special symbol .., like `cd ..`.
 
 - If you execute cd without specifying a directory, you can move to what is called a home directory.
 The home directory is represented by ~ like in the image below.
